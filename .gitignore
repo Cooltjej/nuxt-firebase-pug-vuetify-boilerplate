@@ -17,6 +17,7 @@ logs
 .DS_Store
 .fleet
 .idea
+/public/emma-surprise.png
 
 # Local env files
 .env
